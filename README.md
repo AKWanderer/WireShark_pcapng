@@ -1,9 +1,6 @@
-# Packets
+# WireShark_pcapng
 
-This repo contains some packet captures that I've collected over time and can share. You are free to use these, but should cite that they came from me (unless another source is specified). Take caution as some of these captures may contain live malware. They should be treated with caution, and might trip your antivirus when downloaded. 
+В этом репозитории содержатся файлы захвата для анализа и обучения работы в программе Wire Shark. Вы можете использовать их по своему усморению, но, по возможности, оставляйте ссылки на данный репозиторий.
+Здесь Вы также найдете файл: `lotsofweЬ.pcapng`, который упоминается в книге "Анализ пакетов. Практическое руководство по исаользованию Wire Shark и tcpdump для решения реальных проблем в локальных сетях" автор: Крис Сандерс. 
 
-Contact me: chris@chrissanders.org.
-
-My Blog: http://www.chrissanders.org
-
-Investigation Theory and Packet Analysis Training: http://www.chrissanders.org/training
+P.S. Автор не несет ответственность за данные файлы, т.к. они были найдены на просторах интернета и не все они были лично протестированны владельцем данного репозитория.
